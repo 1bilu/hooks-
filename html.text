@@ -1,8 +1,8 @@
 <!DOCUMENT.html>
 <head>
+<body bgcolor="cyan">
 <title>automatically</title>
 </head>
-<body>
 <h1> hello </h1>
 </body>
 </html>
